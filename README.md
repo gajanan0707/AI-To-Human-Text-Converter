@@ -32,7 +32,7 @@ Welcome to the **AI To Human Text Converter** project! This project is designed 
 4. Usage:
 Once installed, you can use the project to convert AI-generated text into human-like language by running the following command:
     ```bash
-    python ai_detector_bypass.py
+    python ai_to_human_text_converter.py
 
 
 ## Contribution Guidelines:
