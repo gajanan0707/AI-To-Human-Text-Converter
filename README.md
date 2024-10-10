@@ -2,10 +2,14 @@
 
 Welcome to the **AI To Human Text Converter** project! This project is designed to take AI-generated text and transform it into more human-like language using natural language processing techniques. It replaces certain words with appropriate synonyms and lightly restructures sentences to enhance readability and comprehension.
 
+
+
+
+![ai_to_human_text](ai_to_human_text.jpeg)
+
 ## Project Features:
-- Synonym replacement based on word part-of-speech
-- Sentence restructuring for improved flow
-- Customizable with NLP (SpaCy) and WordNet libraries
+- ai_to_human_text_converter.py
+
 
 ## Technologies Used:
 - Python
